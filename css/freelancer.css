@@ -68,11 +68,6 @@ hr.star-primary:after {
   margin: 0 auto;
 }
 
-.img-responsive {
-  height: 650px;
-  width: 700px;
-}
-
 header {
   text-align: center;
   background: #18BC9C;
